@@ -1,0 +1,19 @@
+.image-list {
+  list-style-type: none;
+  display: flex;
+}
+
+.button {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.thumbnail-img {
+  width: 100px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.opacity-class {
+  opacity: 0.5;
+}
